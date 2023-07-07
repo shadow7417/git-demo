@@ -1,6 +1,6 @@
 
 hello Git! test Ivan;
-hello Git!
+hello Git! test 2
 hello Git!
 hello Git!
 hello Git!
